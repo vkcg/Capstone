@@ -1,3 +1,9 @@
 Hello World!
 
 Hey World!
+
+<<<<<<< HEAD
+Hey
+=======
+Hello Python!
+>>>>>>> 424b40163f8f73eb2c76bf34b2346539ab479317
